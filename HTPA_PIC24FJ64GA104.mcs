@@ -1,0 +1,149 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj\Buttons_HTPA.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj\main_HTPA.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj\Outputs_HTPA.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj\Parse_UART__HTPA.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj\Timer_HTPA.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj\UART_HTPA.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj\SPI_HTPA.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj\TimeDelay.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj\Adc_HTPA.o
+Folder=Intermediary
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin\HTPA_PIC24FJ64GA104.cof
+Folder=Output
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin\HTPA_PIC24FJ64GA104.hex
+Folder=Output
+DeviceName=PIC24FJ64GA104
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\bin||$(TMPDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\obj||$(AINDIR)|C:\Program Files (x86)\Microchip\MPLAB ASM30 Suite\Support\PIC24F\gld||$(INCDIR)|C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h;C:\MyMCPProjects\Microchip Solutions v2012-02-15\Microchip\Include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C30\lib\PIC24F||$(LKRDIR)||
+SOLK=<src>|src\Buttons_HTPA.c|src\main_HTPA.c|src\Outputs_HTPA.c|src\Parse_UART__HTPA.c|src\Timer_HTPA.c|src\UART_HTPA.c|src\SPI_HTPA.c|src\TimeDelay.c|src\Adc_HTPA.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-Map="$(BINDIR_)$(TARGETBASE).map" --report-mem -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe

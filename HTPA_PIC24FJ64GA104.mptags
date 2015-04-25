@@ -1,0 +1,570 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADAVG	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Adc_HTPA.c	50;"	l	line:50
+ADCCounter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	25;"	v	line:25
+ADCInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	121;"	p	line:121	signature:(void)
+ADCInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	33;"	f	line:33	signature:(void)
+ADC_CS_lat::LATAbits.LATA4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	35;"	d	line:35
+ADC_CS_port::PORTAbits.RA4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	34;"	d	line:34
+ADC_CS_tris::TRISAbits.TRISA4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	33;"	d	line:33
+ADC_SCK_lat::LATBbits.LATB4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	39;"	d	line:39
+ADC_SCK_port::PORTBbits.RB4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	38;"	d	line:38
+ADC_SCK_tris::TRISBbits.TRISB4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	37;"	d	line:37
+ADC_SDI_lat::LATCbits.LATC5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	47;"	d	line:47
+ADC_SDI_port::PORTCbits.RC5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	46;"	d	line:46
+ADC_SDI_tris::TRISCbits.TRISC5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	45;"	d	line:45
+ADC_SDO_lat::LATCbits.LATC3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	43;"	d	line:43
+ADC_SDO_port::PORTCbits.RC3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	42;"	d	line:42
+ADC_SDO_tris::TRISCbits.TRISC3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	41;"	d	line:41
+ADCinit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Adc_HTPA.h	32;"	p	line:32	signature:()
+ADCinit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Adc_HTPA.c	26;"	f	line:26
+AbsoluteTempMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	87;"	p	line:87	signature:(void)
+AbsoluteTempMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	231;"	f	line:231	signature:(void)
+ArrayTempMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	83;"	p	line:83	signature:(void)
+ArrayTempMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	223;"	f	line:223	signature:(void)
+BATTERY::0x0C	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	30;"	d	line:30
+BOOL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	48;"	t	line:48
+BUTTON	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	72;"	t	line:72
+BUTTON_MAX_DEBOUCE::25	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	79;"	d	line:79
+BYTE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	58;"	t	line:58
+BYTE1_STATE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	43;"	e	line:43
+BYTE2_STATE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	45;"	e	line:45
+BYTE3_STATE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	47;"	e	line:47
+BYTE4_STATE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	49;"	e	line:49
+BYTE_BITS	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	103;"	t	line:103
+BYTE_VAL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	103;"	t	line:103
+BtnInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	52;"	p	line:52	signature:(void)
+BtnInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Buttons_HTPA.c	72;"	f	line:72	signature:(void)
+BtnProcessEvents	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	62;"	p	line:62	signature:(void)
+BtnProcessEvents	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Buttons_HTPA.c	88;"	f	line:88	signature:(void)
+ButtonCounter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	47;"	v	line:47
+ButtonTest	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	32;"	p	line:32	signature:(void)
+ButtonTest	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Buttons_HTPA.c	45;"	f	line:45	signature:(void)
+ButtonTimer	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	48;"	v	line:48
+ByteStuffing	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	131;"	p	line:131	signature:(void)
+CAL_CONSTANTS::0x02	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	24;"	d	line:24
+CAL_CONSTANTS_UPDATE::0x03	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	25;"	d	line:25
+CHAR	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	62;"	t	line:62
+CHAR8	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	70;"	t	line:70
+CNInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	134;"	p	line:134	signature:(void)
+CONFIGURE_BLUETOOTH::0x06	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	28;"	d	line:28
+CTSAN::AD1PCFGbits.PCFG12	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	114;"	d	line:114
+CTSlat::LATBbits.LATB12	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	113;"	d	line:113
+CTSport::PORTBbits.RB12	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	112;"	d	line:112
+CTStris::TRISBbits.TRISB12	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	111;"	d	line:111
+ChangeBaudRateTempTo230K	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	100;"	p	line:100	signature:(void)
+ChangeBaudRateTempTo230K	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	266;"	f	line:266	signature:(void)
+ChangeClassofDevice	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	96;"	p	line:96	signature:(void)
+ChangeClassofDevice	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	242;"	f	line:242	signature:(void)
+ChangeUARTSpeed	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	88;"	m	line:88	struct:tagFLAGS
+ChunkCounter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	44;"	v	line:44
+CommandMode	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	102;"	p	line:102	signature:(void)
+CommandMode	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	280;"	f	line:280	signature:(void)
+ConfigBlueTooth	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	69;"	p	line:69	signature:(void)
+ConfigBlueTooth	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	169;"	f	line:169	signature:(void)
+Count1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	96;"	l	line:96	file:
+DBButtonTest	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	42;"	p	line:42	signature:(void)
+DBButtonTest	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Buttons_HTPA.c	59;"	f	line:59	signature:(void)
+DELAY_uS::1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	18;"	d	line:18	file:
+DWORD	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	60;"	t	line:60
+DWORD_VAL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	192;"	t	line:192
+DataByte	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	43;"	v	line:43
+Delay10us	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\TimeDelay.h	59;"	p	line:59	signature:( UINT32 tenMicroSecondCounter )
+Delay10us	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\TimeDelay.c	117;"	f	line:117	signature:( UINT32 tenMicroSecondCounter )
+DelayMs	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\TimeDelay.h	80;"	p	line:80	signature:( UINT16 ms )
+DelayMs	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\TimeDelay.c	223;"	f	line:223	signature:( UINT16 ms )
+Dummy	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	36;"	v	line:36
+Empty_Buf	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	28;"	v	line:28
+EndofFrameflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	72;"	m	line:72	struct:tagFLAGS
+EraseWord	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	140;"	p	line:140	signature:(unsigned int addr)
+EraseWord	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	196;"	f	line:196	signature:(unsigned int addr)
+ExitCommandMode	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	104;"	p	line:104	signature:(void)
+ExitCommandMode	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	289;"	f	line:289	signature:(void)
+FALSE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	48;"	e	line:48	enum:_BOOL
+FALSE::0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	23;"	d	line:23
+FIRST_ADDRESS::0x7D00	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	103;"	d	line:103
+FLAGInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	102;"	p	line:102	signature:(void)
+FLAGInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	75;"	f	line:75	signature:(void)
+FLAGMaint	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	112;"	p	line:112	signature:(void)
+FLAGS	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	91;"	t	line:91
+FrameCounter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	21;"	v	line:21
+FrameNumber	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	29;"	v	line:29
+GET_DATA_STATE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	36;"	e	line:36
+GET_HEADER_STATE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	34;"	e	line:34
+GET_SYNC_STATE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	32;"	e	line:32
+GetInstructionClock::(GetSystemClock/2)	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\TimeDelay.c	95;"	d	line:95	file:
+GetPeripheralClock::(GetSystemClock/2)	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\TimeDelay.c	82;"	d	line:82	file:
+GetSystemClock::(32000000ul)	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\TimeDelay.c	69;"	d	line:69	file:
+HALT_DATA_SLEEPMODE::0x05	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	27;"	d	line:27
+HALT_DATA_STANDBY::0x04	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	26;"	d	line:26
+HB	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	112;"	m	line:112	struct:_WORD_VAL::<anonymous>
+HB	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	148;"	m	line:148	struct:_DWORD_VAL::<anonymous>
+HD	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	203;"	m	line:203	struct:_QWORD_VAL::<anonymous>
+HTPAErrorCtr	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	31;"	v	line:31
+HTPAInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	123;"	p	line:123	signature:(void)
+HTPAInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	63;"	f	line:63	signature:(void)
+HTPA_1MHZ_lat::LATBbits.LATB9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	76;"	d	line:76
+HTPA_1MHZ_port::PORTBbits.RB9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	75;"	d	line:75
+HTPA_1MHZ_tris::TRISBbits.TRISB9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	74;"	d	line:74
+HTPA_BUF1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	26;"	v	line:26
+HTPA_BUF2	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	27;"	v	line:27
+HTPA_CONT_lat::LATBbits.LATB5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	60;"	d	line:60
+HTPA_CONT_port::PORTBbits.RB5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	59;"	d	line:59
+HTPA_CONT_tris::TRISBbits.TRISB5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	58;"	d	line:58
+HTPA_DATA_lat::LATBbits.LATB6	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	68;"	d	line:68
+HTPA_DATA_port::PORTBbits.RB6	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	67;"	d	line:67
+HTPA_DATA_tris::TRISBbits.TRISB6	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	66;"	d	line:66
+HTPA_SCK_lat::LATCbits.LATC4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	64;"	d	line:64
+HTPA_SCK_port::PORTCbits.RC4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	63;"	d	line:63
+HTPA_SCK_tris::TRISCbits.TRISC4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	62;"	d	line:62
+HTPA_VALID_lat::LATBbits.LATB7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	80;"	d	line:80
+HTPA_VALID_port::PORTBbits.RB7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	79;"	d	line:79
+HTPA_VALID_tris::TRISBbits.TRISB7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	78;"	d	line:78
+HTPA_counter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	24;"	v	line:24
+HW	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	143;"	m	line:143	struct:_DWORD_VAL::<anonymous>
+HW	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	208;"	m	line:208	struct:_QWORD_VAL::<anonymous>
+I2Cread	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	135;"	p	line:135	signature:(unsigned int addr)
+I2Cread	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	158;"	f	line:158	signature:(unsigned int address)
+I2Cwrite	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	133;"	p	line:133	signature:(unsigned int address, unsigned char data)
+I2Cwrite	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	145;"	f	line:145	signature:(unsigned int address, unsigned char data)
+INT	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	77;"	t	line:77
+INT16	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	79;"	t	line:79
+INT32	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	80;"	t	line:80
+INT64	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	81;"	t	line:81
+INT8	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	78;"	t	line:78
+InSleepWake	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	90;"	m	line:90	struct:tagFLAGS
+InputCapInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	128;"	p	line:128	signature:(void)
+InputCapInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	109;"	f	line:109	signature:(void)
+InterpretFactorMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	85;"	p	line:85	signature:(void)
+InterpretFactorMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	227;"	f	line:227	signature:(void)
+LASER_ON::0x0A	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	29;"	d	line:29
+LAST_ADDRESS::0xABFE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	104;"	d	line:104
+LB	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	111;"	m	line:111	struct:_WORD_VAL::<anonymous>
+LB	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	147;"	m	line:147	struct:_DWORD_VAL::<anonymous>
+LD	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	202;"	m	line:202	struct:_QWORD_VAL::<anonymous>
+LED1BlinkingCounter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	49;"	v	line:49
+LED1lat::LATCbits.LATC7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	56;"	d	line:56
+LED1port::PORTCbits.RC7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	55;"	d	line:55
+LED1tris::TRISCbits.TRISC7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	54;"	d	line:54
+LED2lat::LATCbits.LATC8	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	60;"	d	line:60
+LED2port::PORTCbits.RC8	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	59;"	d	line:59
+LED2tris::TRISCbits.TRISC8	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	58;"	d	line:58
+LONG	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	64;"	t	line:64
+LONGLONG	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	65;"	t	line:65
+LW	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	142;"	m	line:142	struct:_DWORD_VAL::<anonymous>
+LW	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	207;"	m	line:207	struct:_QWORD_VAL::<anonymous>
+LaserCounter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	51;"	v	line:51
+LaserOutlat::LATCbits.LATC6	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	68;"	d	line:68
+LaserOutport::PORTCbits.RC6	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	67;"	d	line:67
+LaserOuttris::TRISCbits.TRISC6	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	66;"	d	line:66
+MB	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	150;"	m	line:150	struct:_DWORD_VAL::<anonymous>
+MW	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	210;"	m	line:210	struct:_QWORD_VAL::<anonymous>
+MemoryLength	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	37;"	v	line:37
+NULL::0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	51;"	d	line:51
+OERR_Counter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	39;"	v	line:39
+OFF::0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	30;"	d	line:30	file:
+OutputInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	118;"	p	line:118	signature:(void)
+OutputInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	30;"	f	line:30	signature:(void)
+PRIVATE::static	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	56;"	d	line:56
+PROTECTED	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	55;"	d	line:55
+PTATMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	75;"	p	line:75	signature:(void)
+PTATMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	207;"	f	line:207	signature:(void)
+PUBLIC::	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	54;"	d	line:54
+PWMGenerate	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	132;"	p	line:132	signature:( unsigned int duty, unsigned int period)
+PWMGenerate	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	348;"	f	line:348	signature:( unsigned int duty, unsigned int period)
+PWMinit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	130;"	p	line:130	signature:(void)
+PWMinit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	339;"	f	line:339	signature:(void)
+PacketType	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	42;"	v	line:42
+PacketisBeingReceived	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	87;"	m	line:87	struct:tagFLAGS
+PacketisReadyforParse	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	69;"	m	line:69	struct:tagFLAGS
+PacketisReadytoSend	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	71;"	m	line:71	struct:tagFLAGS
+PacketisSentflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	70;"	m	line:70	struct:tagFLAGS
+ParsingRXMsg	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	67;"	p	line:67	signature:(void)
+ParsingRXMsg	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	45;"	f	line:45	signature:(void)
+PasswordMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	91;"	p	line:91	signature:(void)
+PasswordMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	239;"	f	line:239	signature:(void)
+PinMapping	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	136;"	p	line:136	signature:(void)
+PinMapping	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	354;"	f	line:354	signature:(void)
+PixelCounter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	22;"	v	line:22
+PixelOffsetMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	81;"	p	line:81	signature:(void)
+PixelOffsetMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	219;"	f	line:219	signature:(void)
+PixelSenMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	77;"	p	line:77	signature:(void)
+PixelSenMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	211;"	f	line:211	signature:(void)
+PixelSlopeMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	79;"	p	line:79	signature:(void)
+PixelSlopeMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	215;"	f	line:215	signature:(void)
+QWORD	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	61;"	t	line:61
+QWORD_VAL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	279;"	t	line:279
+READ_ADDR::0xA1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	98;"	d	line:98
+RN171_GP8_SHTDWN_AN::AD1PCFGbits.PCFG4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	90;"	d	line:90
+RN171_GP8_SHTDWN_LAT::LATBbits.LATB2	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	89;"	d	line:89
+RN171_GP8_SHTDWN_PORT::PORTBbits.RB2	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	88;"	d	line:88
+RN171_GP8_SHTDWN_TRIS::TRISBbits.TRISB2	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	87;"	d	line:87
+RN171_RESET_LAT::LATAbits.LATA7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	95;"	d	line:95
+RN171_RESET_PORT::PORTAbits.RA7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	94;"	d	line:94
+RN171_RESET_TRIS::TRISAbits.TRISA7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	93;"	d	line:93
+RN171_STATUS_GP4_WIFICX_AN::AD1PCFGbits.PCFG2	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	85;"	d	line:85
+RN171_STATUS_GP4_WIFICX_LAT::LATBbits.LATB0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	84;"	d	line:84
+RN171_STATUS_GP4_WIFICX_PORT::PORTBbits.RB0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	83;"	d	line:83
+RN171_STATUS_GP4_WIFICX_TRIS::TRISBbits.TRISB0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	82;"	d	line:82
+RN171_STATUS_GP6_TCP_AN::AD1PCFGbits.PCFG3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	80;"	d	line:80
+RN171_STATUS_GP6_TCP_LAT::LATBbits.LATB1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	79;"	d	line:79
+RN171_STATUS_GP6_TCP_PORT::PORTBbits.RB1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	78;"	d	line:78
+RN171_STATUS_GP6_TCP_TRIS::TRISBbits.TRISB1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	77;"	d	line:77
+RTSAN::AD1PCFGbits.PCFG11	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	119;"	d	line:119
+RTSlat::LATBbits.LATB13	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	118;"	d	line:118
+RTSport::PORTBbits.RB13	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	117;"	d	line:117
+RTStris::TRISBbits.TRISB13	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	116;"	d	line:116
+RX_Counter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	38;"	v	line:38
+ReadADC	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	125;"	p	line:125	signature:(void)
+ReadWord	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	145;"	p	line:145	signature:(unsigned int addr)
+ReadWord	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	239;"	f	line:239	signature:(unsigned int addr)
+Reboot	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	106;"	p	line:106	signature:(void)
+Reboot	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	298;"	f	line:298	signature:(void)
+RefreshStatusflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	85;"	m	line:85	struct:tagFLAGS
+Rxdata	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	33;"	v	line:33
+SEND_FRAMES_ONE_DELAY::0x05	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	37;"	d	line:37
+SEND_SINGLE_12BIT::0x03	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	35;"	d	line:35
+SEND_SINGLE_16BIT::0x04	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	36;"	d	line:36
+SER_INTERBYTE_TIME_OUT::150	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	22;"	d	line:22
+SER_SYNCH_CODE::0xA5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	21;"	d	line:21
+SHORT	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	63;"	t	line:63
+SLEEPTIME::180	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	20;"	d	line:20
+SPI1Get::SPI1BUF	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	96;"	d	line:96	file:
+SPI1Put	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	86;"	f	line:86	signature:(BYTE data)
+SPI2Get::SPI2BUF	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	107;"	d	line:107	file:
+SPI2Put	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	98;"	f	line:98	signature:(BYTE data)
+STATES_GET_PACKET	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	38;"	t	line:38
+STATES_SEND_PACKET	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	51;"	t	line:51
+STATE_MACHINE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	58;"	t	line:58
+STATE_SLEEP	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	56;"	e	line:56
+STATE_STANDBY	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	54;"	e	line:54
+STATE_STREAM	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	55;"	e	line:55
+STATUS_REQUEST::0x00	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	22;"	d	line:22
+STOP_STREAMING::0x02	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	34;"	d	line:34
+STREAM_REQUEST::0x01	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	23;"	d	line:23
+SW1DBB	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	71;"	m	line:71	struct:tagButton
+SW1lat::LATCbits.LATC9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	22;"	d	line:22
+SW1port::PORTCbits.RC9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	21;"	d	line:21
+SW1released	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	73;"	m	line:73	struct:tagFLAGS
+SW1tris::TRISCbits.TRISC9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	20;"	d	line:20
+SYSTEMInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	122;"	p	line:122	signature:(void)
+SYSTEMInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	106;"	f	line:106	signature:(void)
+SendByteStuffingflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	77;"	m	line:77	struct:tagFLAGS
+SendStatusMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	81;"	m	line:81	struct:tagFLAGS
+SetNameofDevice	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	98;"	p	line:98	signature:(void)
+SetNameofDevice	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	247;"	f	line:247	signature:(void)
+SixteenBitMode	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	135;"	p	line:135	signature:(void)
+SixteenBitflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	79;"	m	line:79	struct:tagFLAGS
+SleepCounter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	50;"	v	line:50
+Sleepflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	76;"	m	line:76	struct:tagFLAGS
+SpecialCharacterTest	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	101;"	p	line:101	signature:(unsigned char databyte)
+SpecialCharacterTest	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	316;"	f	line:316	signature:(unsigned char databyte)
+Standbyflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	75;"	m	line:75	struct:tagFLAGS
+StateMachine	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	125;"	p	line:125	signature:(void)
+StateMachine	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	339;"	f	line:339	signature:(void)
+StatusMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	71;"	p	line:71	signature:(void)
+StatusMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	175;"	f	line:175	signature:(void)
+StopHTPAflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	89;"	m	line:89	struct:tagFLAGS
+Stopflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	83;"	m	line:83	struct:tagFLAGS
+StreamBuffer	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	30;"	v	line:30
+StreamMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	73;"	p	line:73	signature:(void)
+StreamMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	201;"	f	line:201	signature:(void)
+Streamflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	74;"	m	line:74	struct:tagFLAGS
+TRUE	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	48;"	e	line:48	enum:_BOOL
+TRUE::1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	24;"	d	line:24
+TX_Counter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	35;"	v	line:35
+TX_Sent_Counter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	37;"	v	line:37
+TX_ToSend_Counter	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	36;"	v	line:36
+TempData	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	147;"	l	line:147
+TempData	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	160;"	l	line:160
+ThermalArrayMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	89;"	p	line:89	signature:(void)
+ThermalArrayMessage	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	235;"	f	line:235	signature:(void)
+TimeBase100ms	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Timer_HTPA.h	61;"	p	line:61	signature:(void)
+TimeBase100ms	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	114;"	f	line:114	signature:(void)
+TimeBase1h	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Timer_HTPA.h	90;"	p	line:90	signature:(void)
+TimeBase1h	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	187;"	f	line:187	signature:(void)
+TimeBase1s	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Timer_HTPA.h	81;"	p	line:81	signature:(void)
+TimeBase1s	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	175;"	f	line:175	signature:(void)
+TimeBase250ms	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Timer_HTPA.h	71;"	p	line:71	signature:(void)
+TimeBase250ms	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	154;"	f	line:154	signature:(void)
+TimeBase50ms	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Timer_HTPA.h	51;"	p	line:51	signature:(void)
+TimeBase50ms	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	134;"	f	line:134	signature:(void)
+TimerInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Timer_HTPA.h	31;"	p	line:31	signature:(void)
+TimerInit	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	33;"	f	line:33	signature:(void)
+TimerIsOverflowEvent	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Timer_HTPA.h	41;"	p	line:41	signature:(void)
+TurnLaserONflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	84;"	m	line:84	struct:tagFLAGS
+TurnOffHTPA	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	129;"	p	line:129	signature:(void)
+TurnOffHTPA	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	485;"	f	line:485	signature:(void)
+TurnOnHTPA	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	127;"	p	line:127	signature:(void)
+TurnOnHTPA	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	457;"	f	line:457	signature:(void)
+TwelveBitMode	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	133;"	p	line:133	signature:(void)
+TwelveBitflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	78;"	m	line:78	struct:tagFLAGS
+TxPacket	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	46;"	v	line:46
+TxPacket_Data	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	45;"	v	line:45
+TxPacket_Stream	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	43;"	v	line:43
+Txdata	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	34;"	v	line:34
+UART_RX_AN::AD1PCFGbits.PCFG9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	93;"	d	line:93
+UART_RX_LAT::LATBbits.LATB15	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	91;"	d	line:91
+UART_RX_PORT::PORTBbits.RB15	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	92;"	d	line:92
+UART_RX_TRIS::TRISBbits.TRISB15	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	90;"	d	line:90
+UART_TX_AN::AD1PCFGbits.PCFG10	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	98;"	d	line:98
+UART_TX_LAT::LATBbits.LATB14	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	96;"	d	line:96
+UART_TX_PORT::PORTBbits.RB14	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	97;"	d	line:97
+UART_TX_TRIS::TRISBbits.TRISB14	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\SPI_HTPA.h	95;"	d	line:95
+UB	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	149;"	m	line:149	struct:_DWORD_VAL::<anonymous>
+UCHAR8	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	71;"	t	line:71
+UINT	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	83;"	t	line:83
+UINT16	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	85;"	t	line:85
+UINT32	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	86;"	t	line:86
+UINT64	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	87;"	t	line:87
+UINT8	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	84;"	t	line:84
+UState	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	95;"	l	line:95	file:
+UW	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	209;"	m	line:209	struct:_QWORD_VAL::<anonymous>
+VBAT_ADC_AN::AD1PCFGbits.PCFG5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Adc_HTPA.h	22;"	d	line:22
+VBAT_ADC_LAT::LATBbits.LATB3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Adc_HTPA.h	21;"	d	line:21
+VBAT_ADC_PORT::PORTBbits.RB3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Adc_HTPA.h	19;"	d	line:19
+VBAT_ADC_TRIS::TRISBbits.TRISB3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Adc_HTPA.h	20;"	d	line:20
+VOID	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	68;"	t	line:68
+Val	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	107;"	m	line:107	union:_WORD_VAL
+Val	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	137;"	m	line:137	union:_DWORD_VAL
+Val	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	196;"	m	line:196	union:_QWORD_VAL
+Val	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	91;"	m	line:91	union:_BYTE_VAL
+WORD	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	59;"	t	line:59
+WORD_BITS	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	133;"	t	line:133
+WORD_VAL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	133;"	t	line:133
+WRITE_ADDR::0xA0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	97;"	d	line:97
+WriteWord	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	142;"	p	line:142	signature:(unsigned int addr, unsigned int data)
+WriteWord	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	216;"	f	line:216	signature:(unsigned int addr, unsigned int data)
+XORflag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	82;"	m	line:82	struct:tagFLAGS
+_12BIT::0x00	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	32;"	d	line:32
+_16BIT::0x01	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Parse_UART_HTPA.h	33;"	d	line:33
+_1MHZ_DUTY::9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	35;"	d	line:35	file:
+_1MHZ_PERIOD::18	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	36;"	d	line:36	file:
+_5V_ENlat::LATAbits.LATA9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	64;"	d	line:64
+_5V_ENport::PORTAbits.RA9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	63;"	d	line:63
+_5V_ENtris::TRISAbits.TRISA9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	62;"	d	line:62
+_BOOL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	48;"	g	line:48
+_BYTE_VAL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	89;"	u	line:89
+_DWORD_VAL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	135;"	u	line:135
+_IC1Interrupt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	121;"	f	line:121	signature:(void)
+_OC1Interrupt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	132;"	f	line:132	signature:(void)
+_QWORD_VAL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	194;"	u	line:194
+_SPI1Interrupt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	138;"	f	line:138	signature:(void)
+_SPI2Interrupt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	208;"	f	line:208	signature:(void)
+_T1Interrupt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	197;"	f	line:197	signature:(void)
+_T4Interrupt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	298;"	f	line:298	signature:(void)
+_T5Interrupt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	311;"	f	line:311	signature:(void)
+_U1RXInterrupt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	339;"	f	line:339
+_U1TXInterrupt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	330;"	f	line:330
+_UART_INIT::16	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	37;"	d	line:37	file:
+_WORD_VAL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	105;"	u	line:105
+__GENERIC_TYPE_DEFS_H_	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	46;"	d	line:46
+_b1_cnt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Buttons_HTPA.c	25;"	v	line:25
+_b2_cnt	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Buttons_HTPA.c	26;"	v	line:26
+_button_press	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Buttons_HTPA.c	34;"	v	line:34
+_system_flags	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	65;"	v	line:65
+adc_array	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	42;"	v	line:42
+b0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	116;"	m	line:116	struct:_WORD_VAL::<anonymous>
+b0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	159;"	m	line:159	struct:_DWORD_VAL::<anonymous>
+b0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	214;"	m	line:214	struct:_QWORD_VAL::<anonymous>
+b0	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	94;"	m	line:94	struct:_BYTE_VAL::<anonymous>
+b1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	117;"	m	line:117	struct:_WORD_VAL::<anonymous>
+b1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	160;"	m	line:160	struct:_DWORD_VAL::<anonymous>
+b1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	215;"	m	line:215	struct:_QWORD_VAL::<anonymous>
+b1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	95;"	m	line:95	struct:_BYTE_VAL::<anonymous>
+b10	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	126;"	m	line:126	struct:_WORD_VAL::<anonymous>
+b10	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	169;"	m	line:169	struct:_DWORD_VAL::<anonymous>
+b10	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	224;"	m	line:224	struct:_QWORD_VAL::<anonymous>
+b11	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	127;"	m	line:127	struct:_WORD_VAL::<anonymous>
+b11	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	170;"	m	line:170	struct:_DWORD_VAL::<anonymous>
+b11	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	225;"	m	line:225	struct:_QWORD_VAL::<anonymous>
+b12	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	128;"	m	line:128	struct:_WORD_VAL::<anonymous>
+b12	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	171;"	m	line:171	struct:_DWORD_VAL::<anonymous>
+b12	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	226;"	m	line:226	struct:_QWORD_VAL::<anonymous>
+b13	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	129;"	m	line:129	struct:_WORD_VAL::<anonymous>
+b13	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	172;"	m	line:172	struct:_DWORD_VAL::<anonymous>
+b13	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	227;"	m	line:227	struct:_QWORD_VAL::<anonymous>
+b14	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	130;"	m	line:130	struct:_WORD_VAL::<anonymous>
+b14	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	173;"	m	line:173	struct:_DWORD_VAL::<anonymous>
+b14	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	228;"	m	line:228	struct:_QWORD_VAL::<anonymous>
+b15	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	131;"	m	line:131	struct:_WORD_VAL::<anonymous>
+b15	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	174;"	m	line:174	struct:_DWORD_VAL::<anonymous>
+b15	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	229;"	m	line:229	struct:_QWORD_VAL::<anonymous>
+b16	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	175;"	m	line:175	struct:_DWORD_VAL::<anonymous>
+b16	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	230;"	m	line:230	struct:_QWORD_VAL::<anonymous>
+b17	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	176;"	m	line:176	struct:_DWORD_VAL::<anonymous>
+b17	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	231;"	m	line:231	struct:_QWORD_VAL::<anonymous>
+b18	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	177;"	m	line:177	struct:_DWORD_VAL::<anonymous>
+b18	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	232;"	m	line:232	struct:_QWORD_VAL::<anonymous>
+b19	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	178;"	m	line:178	struct:_DWORD_VAL::<anonymous>
+b19	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	233;"	m	line:233	struct:_QWORD_VAL::<anonymous>
+b2	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	118;"	m	line:118	struct:_WORD_VAL::<anonymous>
+b2	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	161;"	m	line:161	struct:_DWORD_VAL::<anonymous>
+b2	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	216;"	m	line:216	struct:_QWORD_VAL::<anonymous>
+b2	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	96;"	m	line:96	struct:_BYTE_VAL::<anonymous>
+b20	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	179;"	m	line:179	struct:_DWORD_VAL::<anonymous>
+b20	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	234;"	m	line:234	struct:_QWORD_VAL::<anonymous>
+b21	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	180;"	m	line:180	struct:_DWORD_VAL::<anonymous>
+b21	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	235;"	m	line:235	struct:_QWORD_VAL::<anonymous>
+b22	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	181;"	m	line:181	struct:_DWORD_VAL::<anonymous>
+b22	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	236;"	m	line:236	struct:_QWORD_VAL::<anonymous>
+b23	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	182;"	m	line:182	struct:_DWORD_VAL::<anonymous>
+b23	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	237;"	m	line:237	struct:_QWORD_VAL::<anonymous>
+b24	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	183;"	m	line:183	struct:_DWORD_VAL::<anonymous>
+b24	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	238;"	m	line:238	struct:_QWORD_VAL::<anonymous>
+b25	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	184;"	m	line:184	struct:_DWORD_VAL::<anonymous>
+b25	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	239;"	m	line:239	struct:_QWORD_VAL::<anonymous>
+b26	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	185;"	m	line:185	struct:_DWORD_VAL::<anonymous>
+b26	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	240;"	m	line:240	struct:_QWORD_VAL::<anonymous>
+b27	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	186;"	m	line:186	struct:_DWORD_VAL::<anonymous>
+b27	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	241;"	m	line:241	struct:_QWORD_VAL::<anonymous>
+b28	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	187;"	m	line:187	struct:_DWORD_VAL::<anonymous>
+b28	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	242;"	m	line:242	struct:_QWORD_VAL::<anonymous>
+b29	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	188;"	m	line:188	struct:_DWORD_VAL::<anonymous>
+b29	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	243;"	m	line:243	struct:_QWORD_VAL::<anonymous>
+b3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	119;"	m	line:119	struct:_WORD_VAL::<anonymous>
+b3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	162;"	m	line:162	struct:_DWORD_VAL::<anonymous>
+b3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	217;"	m	line:217	struct:_QWORD_VAL::<anonymous>
+b3	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	97;"	m	line:97	struct:_BYTE_VAL::<anonymous>
+b30	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	189;"	m	line:189	struct:_DWORD_VAL::<anonymous>
+b30	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	244;"	m	line:244	struct:_QWORD_VAL::<anonymous>
+b31	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	190;"	m	line:190	struct:_DWORD_VAL::<anonymous>
+b31	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	245;"	m	line:245	struct:_QWORD_VAL::<anonymous>
+b32	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	246;"	m	line:246	struct:_QWORD_VAL::<anonymous>
+b33	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	247;"	m	line:247	struct:_QWORD_VAL::<anonymous>
+b34	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	248;"	m	line:248	struct:_QWORD_VAL::<anonymous>
+b35	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	249;"	m	line:249	struct:_QWORD_VAL::<anonymous>
+b36	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	250;"	m	line:250	struct:_QWORD_VAL::<anonymous>
+b37	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	251;"	m	line:251	struct:_QWORD_VAL::<anonymous>
+b38	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	252;"	m	line:252	struct:_QWORD_VAL::<anonymous>
+b39	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	253;"	m	line:253	struct:_QWORD_VAL::<anonymous>
+b4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	120;"	m	line:120	struct:_WORD_VAL::<anonymous>
+b4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	163;"	m	line:163	struct:_DWORD_VAL::<anonymous>
+b4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	218;"	m	line:218	struct:_QWORD_VAL::<anonymous>
+b4	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	98;"	m	line:98	struct:_BYTE_VAL::<anonymous>
+b40	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	254;"	m	line:254	struct:_QWORD_VAL::<anonymous>
+b41	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	255;"	m	line:255	struct:_QWORD_VAL::<anonymous>
+b42	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	256;"	m	line:256	struct:_QWORD_VAL::<anonymous>
+b43	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	257;"	m	line:257	struct:_QWORD_VAL::<anonymous>
+b44	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	258;"	m	line:258	struct:_QWORD_VAL::<anonymous>
+b45	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	259;"	m	line:259	struct:_QWORD_VAL::<anonymous>
+b46	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	260;"	m	line:260	struct:_QWORD_VAL::<anonymous>
+b47	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	261;"	m	line:261	struct:_QWORD_VAL::<anonymous>
+b48	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	262;"	m	line:262	struct:_QWORD_VAL::<anonymous>
+b49	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	263;"	m	line:263	struct:_QWORD_VAL::<anonymous>
+b5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	121;"	m	line:121	struct:_WORD_VAL::<anonymous>
+b5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	164;"	m	line:164	struct:_DWORD_VAL::<anonymous>
+b5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	219;"	m	line:219	struct:_QWORD_VAL::<anonymous>
+b5	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	99;"	m	line:99	struct:_BYTE_VAL::<anonymous>
+b50	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	264;"	m	line:264	struct:_QWORD_VAL::<anonymous>
+b51	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	265;"	m	line:265	struct:_QWORD_VAL::<anonymous>
+b52	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	266;"	m	line:266	struct:_QWORD_VAL::<anonymous>
+b53	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	267;"	m	line:267	struct:_QWORD_VAL::<anonymous>
+b54	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	268;"	m	line:268	struct:_QWORD_VAL::<anonymous>
+b55	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	269;"	m	line:269	struct:_QWORD_VAL::<anonymous>
+b56	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	270;"	m	line:270	struct:_QWORD_VAL::<anonymous>
+b57	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	271;"	m	line:271	struct:_QWORD_VAL::<anonymous>
+b58	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	272;"	m	line:272	struct:_QWORD_VAL::<anonymous>
+b59	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	273;"	m	line:273	struct:_QWORD_VAL::<anonymous>
+b6	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	100;"	m	line:100	struct:_BYTE_VAL::<anonymous>
+b6	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	122;"	m	line:122	struct:_WORD_VAL::<anonymous>
+b6	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	165;"	m	line:165	struct:_DWORD_VAL::<anonymous>
+b6	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	220;"	m	line:220	struct:_QWORD_VAL::<anonymous>
+b60	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	274;"	m	line:274	struct:_QWORD_VAL::<anonymous>
+b61	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	275;"	m	line:275	struct:_QWORD_VAL::<anonymous>
+b62	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	276;"	m	line:276	struct:_QWORD_VAL::<anonymous>
+b63	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	277;"	m	line:277	struct:_QWORD_VAL::<anonymous>
+b7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	101;"	m	line:101	struct:_BYTE_VAL::<anonymous>
+b7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	123;"	m	line:123	struct:_WORD_VAL::<anonymous>
+b7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	166;"	m	line:166	struct:_DWORD_VAL::<anonymous>
+b7	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	221;"	m	line:221	struct:_QWORD_VAL::<anonymous>
+b8	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	124;"	m	line:124	struct:_WORD_VAL::<anonymous>
+b8	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	167;"	m	line:167	struct:_DWORD_VAL::<anonymous>
+b8	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	222;"	m	line:222	struct:_QWORD_VAL::<anonymous>
+b9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	125;"	m	line:125	struct:_WORD_VAL::<anonymous>
+b9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	168;"	m	line:168	struct:_DWORD_VAL::<anonymous>
+b9	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	223;"	m	line:223	struct:_QWORD_VAL::<anonymous>
+bits	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	102;"	m	line:102	union:_BYTE_VAL
+bits	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	132;"	m	line:132	union:_WORD_VAL
+bits	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	191;"	m	line:191	union:_DWORD_VAL
+bits	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	278;"	m	line:278	union:_QWORD_VAL
+byte	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	113;"	m	line:113	union:_WORD_VAL
+byte	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	151;"	m	line:151	union:_DWORD_VAL
+cyclesRequiredForEntireDelay	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\TimeDelay.c	119;"	l	line:119
+cyclesRequiredForEntireDelay	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\TimeDelay.c	227;"	l	line:227
+d	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	197;"	m	line:197	union:_QWORD_VAL
+data	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	173;"	l	line:173
+datah	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	245;"	l	line:245
+datal	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	244;"	l	line:244
+datalength_RX	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	40;"	v	line:40
+datalength_TX	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	41;"	v	line:41
+dword	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	204;"	m	line:204	union:_QWORD_VAL
+high	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	155;"	m	line:155	struct:_DWORD_VAL::<anonymous>
+i	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Adc_HTPA.c	49;"	l	line:49
+i	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	123;"	l	line:123
+i	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	172;"	l	line:172
+i	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	160;"	l	line:160
+i2c_init	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	125;"	p	line:125	signature:(void)
+i2c_init	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	70;"	f	line:70	signature:(void)
+i2c_start	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	127;"	p	line:127	signature:(void)
+i2c_start	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	82;"	f	line:82	signature:(void)
+initUART	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	91;"	p	line:91	signature:(unsigned char BaudRate)
+initUART	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	57;"	f	line:57	signature:(unsigned char BaudRate)
+j	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Parse_UART__HTPA.c	35;"	v	line:35
+j	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	224;"	l	line:224
+j	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	257;"	l	line:257
+low	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	154;"	m	line:154	struct:_DWORD_VAL::<anonymous>
+main	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	118;"	f	line:118	signature:(void)
+ms1	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	20;"	v	line:20
+ms100	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	22;"	v	line:22
+ms1000	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	24;"	v	line:24
+ms250	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	23;"	v	line:23
+ms3600000	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	25;"	v	line:25
+ms50	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	21;"	v	line:21
+ms_flag	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Timer_HTPA.c	19;"	v	line:19
+offset	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	203;"	l	line:203
+offset	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	221;"	l	line:221
+offset	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	242;"	l	line:242
+progDataH	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	224;"	l	line:224
+progDataL	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	223;"	l	line:223
+readADC	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Adc_HTPA.h	41;"	p	line:41	signature:( unsigned char ch)
+readADC	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Adc_HTPA.c	46;"	f	line:46	signature:( unsigned char ch)
+receivedCtr	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	147;"	l	line:147
+reset_i2c_bus	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	129;"	p	line:129	signature:(void)
+reset_i2c_bus	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	102;"	f	line:102	signature:(void)
+send_i2c_byte	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Outputs_HTPA.h	131;"	p	line:131	signature:(int data)
+send_i2c_byte	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	121;"	f	line:121	signature:(int data)
+state	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\main_HTPA.c	58;"	v	line:58
+tagButton	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\Buttons_HTPA.h	70;"	s	line:70
+tagFLAGS	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	67;"	s	line:67
+temp	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Adc_HTPA.c	48;"	l	line:48
+temp	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	72;"	l	line:72
+uartDataAvailable_receive	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	32;"	v	line:32
+uart_getPacket	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	87;"	p	line:87	signature:(unsigned char reset)
+uart_getPacket	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	91;"	f	line:91	signature:(unsigned char reset)
+uart_hi_speed	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\main_HTPA.h	86;"	m	line:86	struct:tagFLAGS
+uart_sendData	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	103;"	p	line:103	signature:(void)
+uart_sendData	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	254;"	f	line:254	signature:(void)
+uart_sendHeader	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	98;"	p	line:98	signature:(unsigned int datalength, unsigned char Type)
+uart_sendHeader	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	266;"	f	line:266	signature:(unsigned int datalength, unsigned char Type)
+uart_sendPacket	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	94;"	p	line:94	signature:(void)
+uart_sendPacket	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	222;"	f	line:222	signature:(void)
+uart_sendStreamData	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\UART_HTPA.h	96;"	p	line:96	signature:(unsigned int counter)
+uart_sendStreamData	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\UART_HTPA.c	246;"	f	line:246	signature:(unsigned int counter)
+v	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	108;"	m	line:108	union:_WORD_VAL
+v	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	139;"	m	line:139	union:_DWORD_VAL
+v	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	199;"	m	line:199	union:_QWORD_VAL
+w	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	138;"	m	line:138	union:_DWORD_VAL
+w	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	198;"	m	line:198	union:_QWORD_VAL
+whatsnext	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\SPI_HTPA.c	23;"	v	line:23
+word	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	144;"	m	line:144	union:_DWORD_VAL
+word	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	211;"	m	line:211	union:_QWORD_VAL
+wordUnion	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\h\GenericTypeDefs.h	156;"	m	line:156	union:_DWORD_VAL
+x	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	104;"	l	line:104
+x	C:\Users\Courtney\Documents\Erik's Stuff\projects\thermal\microchip\HTPA_PIC24F_Oct25_WiFi_v8\src\Outputs_HTPA.c	84;"	l	line:84
